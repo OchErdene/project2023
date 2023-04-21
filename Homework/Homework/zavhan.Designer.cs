@@ -52,6 +52,7 @@
             // 
             // btnTic1
             // 
+            btnTic1.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic1.Location = new Point(10, 5);
             btnTic1.Name = "btnTic1";
             btnTic1.Size = new Size(127, 123);
@@ -61,6 +62,7 @@
             // 
             // btnTic2
             // 
+            btnTic2.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic2.Location = new Point(143, 5);
             btnTic2.Name = "btnTic2";
             btnTic2.Size = new Size(127, 123);
@@ -70,6 +72,7 @@
             // 
             // btnTic3
             // 
+            btnTic3.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic3.Location = new Point(276, 5);
             btnTic3.Name = "btnTic3";
             btnTic3.Size = new Size(127, 123);
@@ -79,6 +82,7 @@
             // 
             // btnTic4
             // 
+            btnTic4.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic4.Location = new Point(10, 134);
             btnTic4.Name = "btnTic4";
             btnTic4.Size = new Size(127, 123);
@@ -88,6 +92,7 @@
             // 
             // btnTic5
             // 
+            btnTic5.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic5.Location = new Point(143, 134);
             btnTic5.Name = "btnTic5";
             btnTic5.Size = new Size(127, 123);
@@ -97,6 +102,7 @@
             // 
             // btnTic6
             // 
+            btnTic6.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic6.Location = new Point(276, 134);
             btnTic6.Name = "btnTic6";
             btnTic6.Size = new Size(127, 123);
@@ -106,6 +112,7 @@
             // 
             // btnTic7
             // 
+            btnTic7.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic7.Location = new Point(10, 263);
             btnTic7.Name = "btnTic7";
             btnTic7.Size = new Size(127, 123);
@@ -115,6 +122,7 @@
             // 
             // btnTic8
             // 
+            btnTic8.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic8.Location = new Point(143, 263);
             btnTic8.Name = "btnTic8";
             btnTic8.Size = new Size(127, 123);
@@ -124,6 +132,7 @@
             // 
             // btnTic9
             // 
+            btnTic9.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
             btnTic9.Location = new Point(276, 263);
             btnTic9.Name = "btnTic9";
             btnTic9.Size = new Size(127, 123);
@@ -151,6 +160,7 @@
             button11.TabIndex = 10;
             button11.Text = "Гарах";
             button11.UseVisualStyleBackColor = true;
+            button11.Click += button11_Click;
             // 
             // button12
             // 

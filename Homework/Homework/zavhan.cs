@@ -37,7 +37,7 @@ namespace Homework
                 btnTic2.BackColor = Color.PowderBlue;
                 btnTic3.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer X", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч Х яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 x++;
                 plusone = x;
@@ -51,7 +51,7 @@ namespace Homework
                 btnTic4.BackColor = Color.PowderBlue;
                 btnTic7.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer X", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч Х яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 x++;
                 plusone = x;
@@ -65,7 +65,7 @@ namespace Homework
                 btnTic5.BackColor = Color.PowderBlue;
                 btnTic9.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer X", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч Х яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 x++;
                 plusone = x;
@@ -79,7 +79,7 @@ namespace Homework
                 btnTic5.BackColor = Color.PowderBlue;
                 btnTic8.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer X", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч Х яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 x++;
                 plusone = x;
@@ -93,7 +93,7 @@ namespace Homework
                 btnTic6.BackColor = Color.PowderBlue;
                 btnTic9.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer X", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч Х яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 x++;
                 plusone = x;
@@ -107,7 +107,7 @@ namespace Homework
                 btnTic5.BackColor = Color.PowderBlue;
                 btnTic7.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer X", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч Х яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
 
 
@@ -123,7 +123,7 @@ namespace Homework
                 btnTic5.BackColor = Color.PowderBlue;
                 btnTic6.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer X", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч Х яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 x++;
                 plusone = x;
@@ -137,7 +137,7 @@ namespace Homework
                 btnTic8.BackColor = Color.PowderBlue;
                 btnTic9.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer X", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч Х яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 x++;
                 plusone = x;
@@ -153,7 +153,7 @@ namespace Homework
                 btnTic2.BackColor = Color.PowderBlue;
                 btnTic3.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer O", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч O яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 o++;
                 plusone = o;
@@ -167,7 +167,7 @@ namespace Homework
                 btnTic4.BackColor = Color.PowderBlue;
                 btnTic7.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer O", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч O яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 o++;
                 plusone = o;
@@ -181,7 +181,7 @@ namespace Homework
                 btnTic5.BackColor = Color.PowderBlue;
                 btnTic9.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer O", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч O яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 o++;
                 plusone = o;
@@ -195,7 +195,7 @@ namespace Homework
                 btnTic5.BackColor = Color.PowderBlue;
                 btnTic8.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer O", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч O яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 o++;
                 plusone = o;
@@ -209,7 +209,7 @@ namespace Homework
                 btnTic6.BackColor = Color.PowderBlue;
                 btnTic9.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer O", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч O яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 o++;
                 plusone = o;
@@ -223,7 +223,7 @@ namespace Homework
                 btnTic5.BackColor = Color.PowderBlue;
                 btnTic7.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer O", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч O яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 o++;
                 plusone = o;
@@ -237,7 +237,7 @@ namespace Homework
                 btnTic5.BackColor = Color.PowderBlue;
                 btnTic6.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer O", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч O яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 o++;
                 plusone = o;
@@ -251,7 +251,7 @@ namespace Homework
                 btnTic8.BackColor = Color.PowderBlue;
                 btnTic9.BackColor = Color.PowderBlue;
 
-                MessageBox.Show("The Winner is PLayer O", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Тоглогч O яллаа", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 o++;
                 plusone = o;
@@ -473,6 +473,13 @@ namespace Homework
             btnTic7.BackColor = Color.White;
             btnTic8.BackColor = Color.White;
             btnTic9.BackColor = Color.White;
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Form2 f1 = new Form2();
+            f1.Show();
+            this.Close();
         }
     }
 }
